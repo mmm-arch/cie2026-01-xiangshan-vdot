@@ -1,0 +1,10 @@
+emu compiled at Sep 27 2026, 18:59:16
+Using simulated 32768B flash
+Using simulated 8386560MB RAM
+The image is /home/user/xs-env/nexus-am/apps/hello/build/hello-riscv64-xs.bin
+Hello, XiangShan!
+Core 0: [32mHIT GOOD TRAP at pc = 0x8000014c
+[0m[35mCore-0 instrCnt = 570, cycleCnt = 4,496, IPC = 0.126779
+[0m[34mSeed=0 Guest cycle spent: 4,500 (this will be different from cycleCnt if emu loads a snapshot)
+[0m[34mHost time spent: 13,689ms
+[0m
